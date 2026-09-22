@@ -1,0 +1,355 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact Us",
+    "cart": "Cart",
+    "language": "English"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "refund": "Return and Refund Policy",
+    "tagline": "Unleash the power of digital marketing with PublicidadActiva",
+    "rights": "PublicidadActiva 2026. All rights reserved",
+    "address": "Avenida Gustavo Baz Prada 166, Interior 101, Colonia La Escuela, Tlalnepantla de Baz, México, Código Postal 54090",
+    "phone": "+52 55 5310 2465"
+  },
+  "home": {
+    "hero": {
+      "title": "We are PublicidadActiva",
+      "subtitle": "Creative and Design Agency",
+      "description": "A comprehensive graphic design and content strategy agency dedicated to emotionally connecting brands with their audience. At PublicidadActiva, we don't just design; we narrate visually captivating stories that build lasting relationships and loyalty.",
+      "cta": "Discover more"
+    },
+    "whatWeDo": {
+      "title": "WHAT we do?",
+      "services": {
+        "uxResearch": {
+          "title": "UX Research",
+          "description": "We dive deep into your users' needs and behaviors to optimize the interface and experience of your digital solutions, ensuring intuitive and satisfying navigation."
+        },
+        "brandIdentity": {
+          "title": "Brand Identity",
+          "description": "We build and renew your visual identity to effectively communicate the values and essence of your brand, creating a lasting impact on your audience."
+        },
+        "webDevelopment": {
+          "title": "Web Development",
+          "description": "We develop attractive and functional websites that reflect the quality and professionalism of your brand, ensuring an optimal user experience."
+        },
+        "businessStrategy": {
+          "title": "Business Strategy",
+          "description": "We offer strategic consulting to align your business objectives with design and content, driving growth and innovation in your business."
+        },
+        "webDesign": {
+          "title": "Web Design",
+          "description": "We create web designs that not only look spectacular but are also effective, improving user interaction and increasing conversions."
+        },
+        "photography": {
+          "title": "Photography",
+          "description": "We capture the essence of your products and services with high-quality photographs that enhance and complement your brand identity across all platforms."
+        }
+      },
+      "couponButton": "Want a coupon?"
+    },
+    "ideas": {
+      "title": "Generating new Ideas. Solving challenges.",
+      "description": "At PublicidadActiva, we stand out for our ability to transform complex challenges into creative and effective solutions. Our dedication to innovation and excellence has driven the continued success of our clients."
+    },
+    "whyDifferent": {
+      "title": "WHY ARE WE DIFFERENT?",
+      "description": "At PublicidadActiva, we believe that design goes beyond aesthetics. Each project is an opportunity to create a unique emotional connection, transforming ideas into visual experiences that communicate and captivate.",
+      "points": {
+        "stories": "Visual stories that connect: Every design we create tells a story, meticulously crafted to resonate with your audience.",
+        "strategies": "Personalized strategies: We understand that every brand is unique. Our design solutions are customized to perfectly align with your objectives.",
+        "results": "Results you can see: More than just design, we provide measurable results that drive growth and brand loyalty."
+      },
+      "cta": "Discover More"
+    },
+    "latestDesigns": {
+      "title": "OUR LATEST DESIGNS",
+      "description": "At PublicidadActiva, every project is an opportunity to innovate and demonstrate our commitment to excellence. Take a look at some of our most recent projects and discover how we help brands shine:"
+    },
+    "skills": {
+      "title": "our skills",
+      "description": "At PublicidadActiva, we transform our passion for design into visual solutions that capture and communicate the essence of your brand. Here's how we make it possible:",
+      "branding": "Branding: We create memorable brand identities that resonate with your target audience and stand the test of time.",
+      "interfaces": "Interface Design: We design clean, intuitive, and efficient interfaces that improve user interaction and overall functionality.",
+      "webDev": "Web Development: We build websites that not only look good but also function flawlessly, optimized for all devices and browsers."
+    },
+    "fusion": "At PublicidadActiva, we fuse art and strategy to bring to life visual projects that not only attract but also connect emotionally with your audience.",
+    "awarded": {
+      "title": "Award-winning design by PublicidadActiva",
+      "description": "At PublicidadActiva, our commitment to excellence has led us to obtain numerous recognitions in the world of design. Our approach focuses on fusing aesthetics and functionality to create visual solutions that not only capture attention but also tell stories and build solid brands.",
+      "product": "Product Design: Our product designs are not only visually appealing but also functional and adapted to current market needs.",
+      "branding": "Brand Identity: We develop brand identities that reflect the essence of your company, ensuring that each element conveys your vision and values consistently.",
+      "tags": {
+        "product": "Product",
+        "branding": "Branding"
+      }
+    },
+    "contact": {
+      "title": "Let's start something new",
+      "description": "Let's start a dialogue that can transform your business. Tell us your ideas and challenges; our team is ready to turn them into creative opportunities and effective solutions. Complete the fields below and we will contact you.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "message": "Message",
+        "submit": "Send"
+      }
+    }
+  },
+  "services": {
+    "title": "Our services",
+    "includes": "INCLUDES:",
+    "hire": "Hire",
+    "items": {
+      "uxResearch": "UX Research",
+      "brandIdentity": "Brand Identity",
+      "webDevelopment": "Web Development",
+      "webDesign": "Web Design",
+      "businessStrategy": "Business Strategy",
+      "photography": "Photography",
+      "contentMarketing": "Content Marketing",
+      "marketResearch": "Market Research",
+      "onlineAds": "Online Advertising",
+      "materialDesign": "Material Design",
+      "basicAdjust": "Basic Design Adjustments",
+      "shortConsulting": "Short Design Consulting (30 min)"
+    },
+    "features": {
+      "CRE-SJE3F2": [
+        "User interviews and surveys to understand their needs, behaviors and expectations.",
+        "Analysis of existing users and market segmentation.",
+        "Benchmarking to compare the product or service user experience with others on the market.",
+        "Analysis of user interaction with prototypes or products in development.",
+        "Evaluation of the product or service based on design and usability principles, to detect common user experience problems.",
+        "Documentation of key findings, including insights on user behavior and usability issues.",
+        "Improvement proposals and recommendations to optimize user experience."
+      ],
+      "CRE-353IG1": [
+        "Market and Competitor Analysis",
+        "Definition of Values and Mission",
+        "Brand Name Creation",
+        "Slogan",
+        "Logo Variations",
+        "Brand Manual (Brandbook)",
+        "Advertising and Marketing Material Design"
+      ],
+      "CRE-2TWDBL": [
+        "Consulting and Planning",
+        "User Experience Design (UX)",
+        "User Interface Design (UI)",
+        "Front-End Development",
+        "Content Management Systems (CMS)",
+        "Testing and Quality Control (QA)",
+        "Site Launch"
+      ],
+      "CRE-LOCLN3": [
+        "Consulting and Initial Analysis",
+        "User Experience Design (UX)",
+        "User Interface Design (UI)",
+        "Brand and Visual Identity Design",
+        "Visual Content Development",
+        "Feature Integration",
+        "Delivery and Documentation",
+        "Optional Maintenance and Updates"
+      ],
+      "CRE-ZHOJ2P": [
+        "Internal Analysis",
+        "SWOT Analysis",
+        "Definition of Mission, Vision and Values",
+        "Strategic Objectives Development",
+        "Competitive Strategies Development",
+        "Resource and Capabilities Planning",
+        "Expansion and Growth Strategy",
+        "Marketing and Sales Strategy",
+        "Implementation Plan"
+      ],
+      "CRE-5POUE0": [
+        "Consulting and Planning",
+        "Pre-production",
+        "Corporate Photography",
+        "Advertising and Marketing Photography",
+        "E-Commerce Photography",
+        "Post-production and Editing",
+        "Material Delivery (Delivery of up to 50 photographs)",
+        "Usage Rights and Licenses"
+      ],
+      "CRE-3THWWI": [
+        "Content Strategy",
+        "Content Creation (Blog, infographic, videos, social media) one service to choose",
+        "Content Optimization",
+        "Content Distribution (Blog, email marketing, platform, social media) one service to choose",
+        "Editorial Calendar Management",
+        "Measurement and Results Analysis",
+        "Continuous Optimization and Adjustments"
+      ],
+      "CRE-P7USJ7": [
+        "Definition of Research Objectives",
+        "Research Design",
+        "Surveys and Questionnaires",
+        "Secondary Data Analysis",
+        "Report and Presentation of Results",
+        "Segmentation and Opportunity Analysis"
+      ],
+      "CRE-RNFGUE": [
+        "Choose one of the following services:",
+        "Pay-Per-Click Advertising (PPC)",
+        "Social Media Advertising",
+        "Video Advertising",
+        "Sponsored Content Marketing",
+        "Email Marketing",
+        "Search Engine Optimization (SEO)",
+        "Analysis and Reports",
+        "Creative Development"
+      ],
+      "CRE-TQRSQ8": [
+        "Choose one of the following services:",
+        "Logo Design",
+        "Brand Material Design",
+        "Print Advertising Design",
+        "Digital Material Design",
+        "Presentation Design",
+        "Packaging Design",
+        "Infographic Design",
+        "Event Material Design",
+        "Editorial Design",
+        "Template Design",
+        "Design Consulting",
+        "Review and Adjustments of the chosen service"
+      ],
+      "CRE-9983JO": [],
+      "CRE-3GMWJ1": []
+    },
+    "customDesign": {
+      "title": "Custom Design",
+      "description": "You can choose more than one service to create a package or contact us to offer you an excellent option according to your budget.",
+      "step1": "Contact one of our agents to tell them what you need",
+      "step2": "You will receive a personalized quote",
+      "step3": "Make the agreed payment in the quote",
+      "step4": "We will contact you to start working",
+      "quote": "QUOTE YOUR SERVICE",
+      "pay": "MAKE THE PAYMENT"
+    }
+  },
+  "product": {
+    "customDesign": {
+      "title": "Custom Design",
+      "description": "We will generate a package of services according to the proposal sent by our sales team.",
+      "proposalNumber": "Proposal number:",
+      "proposalAmount": "Proposal amount ( $MXN)",
+      "addToCart": "Add to cart"
+    }
+  },
+  "cart": {
+    "title": "Cart",
+    "remove": "Remove item",
+    "thumbnail": "Thumbnail",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "coupon": "Coupon:",
+    "couponCode": "Coupon code",
+    "applyCoupon": "Apply coupon",
+    "cartTotal": "Cart total",
+    "subtotalLabel": "Subtotal",
+    "iva": "VAT",
+    "total": "Total",
+    "checkout": "Proceed to checkout",
+    "removeLink": "[Remove]",
+    "undo": "Undo?",
+    "removedMessage": "removed.",
+    "appliedCoupon": "Coupon applied to your purchase",
+    "viewCart": "View cart"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "couponPrompt": "Have a coupon? Click here to enter your code",
+    "billing": "Billing details",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "company": "Company name (optional)",
+    "country": "Country/Region",
+    "address": "Street address",
+    "address2": "House number and street name",
+    "address3": "Apartment, suite, unit, etc. (optional)",
+    "city": "Town / City",
+    "state": "State / County",
+    "postalCode": "Postal code",
+    "phone": "Phone",
+    "email": "Email address",
+    "additionalInfo": "Additional information",
+    "orderNotes": "Order notes (optional)",
+    "orderNotesPlaceholder": "Additional order details, address references, etc.",
+    "yourOrder": "Your order",
+    "creditCard": "Credit or debit card.",
+    "enterCardData": "Enter card details",
+    "cardName": "Name on card",
+    "cardNumber": "Card number",
+    "expiry": "MM/YY",
+    "cvc": "CVC",
+    "privacyText": "Your personal data will be used to process your order, improve your experience on this website and other purposes described in our",
+    "privacyLink": "privacy policy",
+    "placeOrder": "Place order"
+  },
+  "success": {
+    "title": "Purchase successful!",
+    "subtitle": "Thank you for your purchase",
+    "orderSummary": "Order summary",
+    "continueShopping": "Continue shopping",
+    "transaction": "Transaction:"
+  },
+  "legal": {
+    "comingSoon": "The corresponding legal documents for this view will be included soon.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "refund": "Return and Refund Policy"
+  },
+  "notifications": {
+    "formSuccess": "Your message has been sent successfully!",
+    "formError": "There was an error sending your message. Please try again.",
+    "paymentSuccess": "Payment processed successfully.",
+    "paymentError": "There was a problem processing the payment.",
+    "addedToCart": "Product added to cart",
+    "couponApplied": "Coupon applied successfully",
+    "couponInvalid": "Invalid coupon",
+    "couponAlreadyUsed": "You have already used a coupon in this session"
+  },
+  "emails": {
+    "contact": {
+      "subject": "Message Received - PublicidadActiva",
+      "adminSubject": "[FWD] New Contact Message - PublicidadActiva",
+      "title": "New Contact Message",
+      "received": "Message Received",
+      "hello": "Hello",
+      "receivedMessage": "We have received your message and will contact you soon.",
+      "labels": {
+        "name": "Name:",
+        "company": "Company:",
+        "email": "Email:",
+        "phone": "Phone:",
+        "message": "Message:"
+      }
+    },
+    "purchase": {
+      "subject": "Purchase Confirmed! - PublicidadActiva",
+      "adminSubject": "[FWD] New Purchase - PublicidadActiva",
+      "title": "Purchase Confirmed!",
+      "newPurchase": "New Purchase",
+      "hello": "Hello",
+      "processed": "Your order has been processed successfully.",
+      "orderSummary": "Order Summary",
+      "subtotal": "Subtotal:",
+      "discount": "Discount:",
+      "tax": "Tax (16%):",
+      "total": "Total:",
+      "couponUsed": "Coupon used:",
+      "transaction": "Transaction:",
+      "thanks": "Thank you for your purchase at",
+      "customer": "Customer:"
+    }
+  }
+}
