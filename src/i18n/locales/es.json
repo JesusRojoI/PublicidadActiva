@@ -7,9 +7,9 @@
     "language": "Español"
   },
   "footer": {
-    "privacy": "Política de privacidad",
-    "terms": "Términos y condiciones",
-    "refund": "Política de devoluciones y reembolso",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "refund": "Política de Devoluciones y Reembolso",
     "tagline": "Libera el poder del marketing digital con PublicidadActiva",
     "rights": "PublicidadActiva 2026. Todos los derechos reservados",
     "address": "Avenida Gustavo Baz Prada 166, Interior 101, Colonia La Escuela, Tlalnepantla de Baz, México, Código Postal 54090",
@@ -17,80 +17,80 @@
   },
   "home": {
     "hero": {
-      "title": "Somos PublicidadActiva",
-      "subtitle": "Agencia Creativa y de diseño",
-      "description": "Una agencia integral de diseño gráfico y estrategias de contenido dedicada a conectar emocionalmente a las marcas con su audiencia. En PublicidadActiva, no solo diseñamos; narramos historias visualmente cautivadoras que construyen relaciones duraderas y fidelidad.",
-      "cta": "Descubre más"
+      "title": "En PublicidadActiva Somos Tu Aliado Creativo",
+      "subtitle": "Estudio de Diseño y Comunicación Visual",
+      "description": "Un equipo multidisciplinario enfocado en diseño gráfico y estrategias de contenido que busca generar lazos genuinos entre tu marca y las personas. Aquí no solo creamos piezas visuales: contamos relatos que permanecen en la memoria y fortalecen la confianza de tus clientes.",
+      "cta": "Conoce Más"
     },
     "whatWeDo": {
-      "title": "¿QUÉ hacemos?",
+      "title": "¿A Qué Nos Dedicamos?",
       "services": {
         "uxResearch": {
           "title": "UX Research",
-          "description": "Nos sumergimos profundamente en las necesidades y comportamientos de tus usuarios para optimizar la interfaz y experiencia de tus soluciones digitales, asegurando una navegación intuitiva y satisfactoria."
+          "description": "Analizamos a fondo cómo piensan y actúan las personas que usan tus productos digitales, con el fin de pulir cada pantalla y lograr recorridos claros, cómodos y satisfactorios."
         },
         "brandIdentity": {
-          "title": "Identidad de marca",
-          "description": "Construimos y renovamos tu identidad visual para que comunique de manera eficaz los valores y la esencia de tu marca, creando un impacto duradero en tu audiencia."
+          "title": "Identidad de Marca",
+          "description": "Damos forma y renovamos la imagen de tu marca para que transmita con claridad lo que representa, dejando una impresión sólida y perdurable en quienes la ven."
         },
         "webDevelopment": {
           "title": "Desarrollo Web",
-          "description": "Desarrollamos sitios web atractivos y funcionales que reflejan la calidad y profesionalismo de tu marca, asegurando una experiencia de usuario óptima."
+          "description": "Construimos sitios web cuidados al detalle, atractivos y funcionales, que reflejan la seriedad de tu marca y ofrecen una navegación cómoda en cualquier dispositivo."
         },
         "businessStrategy": {
-          "title": "Estrategia de negocios",
-          "description": "Ofrecemos consultoría estratégica para alinear tus objetivos comerciales con diseño y contenido, impulsando el crecimiento y la innovación en tu negocio."
+          "title": "Estrategia de Negocios",
+          "description": "Acompañamos tu negocio con asesoría estratégica que conecta tus metas comerciales con el diseño y el contenido, favoreciendo el crecimiento y la renovación constante."
         },
         "webDesign": {
-          "title": "Diseño web",
-          "description": "Creamos diseños web que no solo lucen espectaculares sino que también son eficaces, mejorando la interacción del usuario y aumentando las conversiones."
+          "title": "Diseño Web",
+          "description": "Diseñamos páginas que además de verse bien funcionan: mejoran la experiencia de quien las visita y ayudan a convertir más oportunidades en clientes."
         },
         "photography": {
           "title": "Fotografía",
-          "description": "Capturamos la esencia de tus productos y servicios con fotografías de alta calidad que realzan y complementan tu identidad de marca en todas las plataformas."
+          "description": "Retratamos tus productos y servicios con imágenes de gran calidad que refuerzan tu identidad visual y funcionan en cualquier plataforma donde estés presente."
         }
       },
-      "couponButton": "¿Quieres un cupón?"
+      "couponButton": "¿Quieres un Cupón?"
     },
     "ideas": {
-      "title": "Generando nuevas Ideas. Resolviendo desafíos.",
-      "description": "En PublicidadActiva, nos destacamos por nuestra habilidad para transformar desafíos complejos en soluciones creativas y efectivas. Nuestra dedicación a la innovación y excelencia ha impulsado el éxito continuo de nuestros clientes."
+      "title": "Imaginamos Distinto. Resolvemos con Criterio.",
+      "description": "En PublicidadActiva destacamos por convertir retos complejos en respuestas creativas y funcionales. Nuestro compromiso con la innovación y el trabajo bien hecho ha sido clave en el éxito sostenido de quienes confían en nosotros."
     },
     "whyDifferent": {
-      "title": "¿pOR QUÉ SOMOS DIFERENTES?",
-      "description": "En PublicidadActiva, creemos que el diseño va más allá de la estética. Cada proyecto es una oportunidad para crear una conexión emocional única, transformando las ideas en experiencias visuales que comunican y cautivan.",
+      "title": "¿Por Qué Marcamos la Diferencia?",
+      "description": "En PublicidadActiva entendemos el diseño como algo que va más allá de lo visual. Cada proyecto representa la ocasión de crear un vínculo emocional único, transformando ideas en experiencias que comunican y atrapan.",
       "points": {
-        "stories": "Historias visuales que conectan: Cada diseño que creamos narra una historia, diseñada meticulosamente para resonar con tu audiencia.",
-        "strategies": "Estrategias personalizadas: Entendemos que cada marca es única. Nuestras soluciones de diseño se personalizan para alinear perfectamente con tus objetivos.",
-        "results": "Resultados que puedes ver: Más que solo diseño, proporcionamos resultados medibles que impulsan el crecimiento y la lealtad de la marca."
+        "stories": "Relatos que Conectan: cada diseño que realizamos cuenta una historia pensada para dialogar con tu público.",
+        "strategies": "Propuestas a la Medida: sabemos que ninguna marca es igual. Por eso adaptamos cada solución a tus objetivos concretos.",
+        "results": "Resultados Visibles: más allá del diseño, ofrecemos impactos medibles que impulsan el crecimiento y la preferencia por tu marca."
       },
-      "cta": "Descubre Más"
+      "cta": "Conoce Más"
     },
     "latestDesigns": {
-      "title": "NUESTROS ULTIMOS DISEÑOS",
-      "description": "En PublicidadActiva, cada proyecto es una oportunidad para innovar y demostrar nuestro compromiso con la excelencia. Echa un vistazo a algunos de nuestros proyectos más recientes y descubre cómo ayudamos a las marcas a brillar:"
+      "title": "Proyectos Recientes",
+      "description": "En PublicidadActiva cada trabajo es una ocasión para explorar nuevas ideas y refrendar nuestro compromiso con la calidad. Echa un vistazo a algunos de los proyectos que hemos realizado últimamente y descubre cómo ayudamos a las marcas a destacar:"
     },
     "skills": {
-      "title": "nuestras habilidades",
-      "description": "En PublicidadActiva, transformamos nuestra pasión por el diseño en soluciones visuales que capturan y comunican la esencia de tu marca. Aquí está cómo lo hacemos posible:",
-      "branding": "Branding: Creamos identidades de marca memorables que resuenan con tu público objetivo y se sostienen en el tiempo.",
-      "interfaces": "Diseño de Interfaces: Diseñamos interfaces limpias, intuitivas y eficientes que mejoran la interacción del usuario y la funcionalidad general.",
-      "webDev": "Desarrollo Web: Construimos sitios web que no solo se ven bien, sino que también funcionan de manera impecable, optimizados para todos los dispositivos y navegadores."
+      "title": "Nuestras Capacidades",
+      "description": "En PublicidadActiva convertimos nuestra pasión por el diseño en soluciones visuales capaces de captar y expresar lo esencial de tu marca. Así es como lo llevamos a la práctica:",
+      "branding": "Branding: desarrollamos identidades memorables que dialogan con tu público y perduran en el tiempo.",
+      "interfaces": "Diseño de Interfaces: creamos pantallas limpias, intuitivas y funcionales que mejoran la experiencia de uso y el desempeño general del producto.",
+      "webDev": "Desarrollo Web: construimos sitios que además de verse bien operan sin fallas, adaptados a todo tipo de dispositivos y navegadores."
     },
-    "fusion": "En PublicidadActiva, fusionamos arte y estrategia para dar vida a proyectos visuales que no solo atraen sino que también conectan emocionalmente con tu audiencia.",
+    "fusion": "En PublicidadActiva combinamos arte y estrategia para dar forma a proyectos visuales que atraen y a la vez generan una conexión emocional con quienes los ven.",
     "awarded": {
-      "title": "Diseño galardonado de PublicidadActiva",
-      "description": "En PublicidadActiva, nuestro compromiso con la excelencia nos ha llevado a obtener numerosos reconocimientos en el mundo del diseño. Nuestro enfoque se centra en fusionar estética y funcionalidad para crear soluciones visuales que no solo capturan la atención, sino que también cuentan historias y construyen marcas sólidas.",
-      "product": "Diseño de producto: Nuestros diseños de producto no solo son visualmente atractivos, sino también funcionales y adaptados a las necesidades del mercado actual.",
-      "branding": "Identidad de marca: Desarrollamos identidades de marca que reflejan la esencia de tu empresa, asegurando que cada elemento transmita tu visión y valores de manera coherente.",
+      "title": "Diseño Reconocido de PublicidadActiva",
+      "description": "En PublicidadActiva, nuestro compromiso con el trabajo bien hecho nos ha valido diversos reconocimientos dentro del mundo del diseño. Nuestra mirada busca unir lo estético con lo funcional para crear soluciones visuales que captan la atención, cuentan historias y consolidan marcas.",
+      "product": "Diseño de Producto: nuestras propuestas de producto destacan por su atractivo visual, su utilidad y su adaptación a lo que el mercado demanda hoy.",
+      "branding": "Identidad de Marca: creamos identidades que reflejan el espíritu de tu empresa, cuidando que cada elemento comunique tu visión y tus valores con coherencia.",
       "tags": {
         "product": "Product",
         "branding": "Branding"
       }
     },
     "contact": {
-      "title": "Empezamos algo nuevo",
-      "description": "Iniciemos un diálogo que puede transformar tu negocio. Cuéntanos tus ideas y desafíos; nuestro equipo está listo para convertirlos en oportunidades creativas y soluciones eficaces. Completa los campos a continuación y nos pondremos en contacto contigo.",
+      "title": "Comencemos Algo Nuevo",
+      "description": "Abramos una conversación que puede dar un giro a tu negocio. Compártenos tus ideas y retos; nuestro equipo está preparado para transformarlos en oportunidades creativas y soluciones efectivas. Llena los campos a continuación y nos pondremos en contacto contigo.",
       "form": {
         "name": "Nombre",
         "email": "Correo",
@@ -101,22 +101,22 @@
     }
   },
   "services": {
-    "title": "Nuestros servicios",
+    "title": "Nuestros Servicios",
     "includes": "INCLUYE:",
     "hire": "Contratar",
     "items": {
       "uxResearch": "UX Research",
-      "brandIdentity": "Identidad de marca",
+      "brandIdentity": "Identidad de Marca",
       "webDevelopment": "Desarrollo Web",
-      "webDesign": "Diseño web",
-      "businessStrategy": "Estrategia de negocios",
+      "webDesign": "Diseño Web",
+      "businessStrategy": "Estrategia de Negocios",
       "photography": "Fotografía",
-      "contentMarketing": "Marketing de contenido",
-      "marketResearch": "Investigación de mercado",
-      "onlineAds": "Publicidad en línea",
-      "materialDesign": "Diseño de materiales",
-      "basicAdjust": "Ajustes básicos de diseño",
-      "shortConsulting": "Consultoría de diseño corta (30 min)"
+      "contentMarketing": "Marketing de Contenido",
+      "marketResearch": "Investigación de Mercado",
+      "onlineAds": "Publicidad en Línea",
+      "materialDesign": "Diseño de Materiales",
+      "basicAdjust": "Ajustes Básicos de Diseño",
+      "shortConsulting": "Consultoría de Diseño Corta (30 min)"
     },
     "features": {
       "CRE-SJE3F2": [
@@ -224,11 +224,11 @@
       "CRE-3GMWJ1": []
     },
     "customDesign": {
-      "title": "Diseño personalizado",
-      "description": "Puedes elegir mas de un servicio para crear un paquete o contactarnos para ofrecerte una excelente opción acorde a tu presupuesto.",
-      "step1": "Contacta a uno de nuestros agentes para decirle que necesitas",
+      "title": "Diseño Personalizado",
+      "description": "Puedes elegir más de un servicio para crear un paquete o contactarnos para ofrecerte una excelente opción acorde a tu presupuesto.",
+      "step1": "Contacta a uno de nuestros agentes para decirle qué necesitas",
       "step2": "Recibirás una cotización personalizada",
-      "step3": "Reliza el pago acordado en la cotización",
+      "step3": "Realiza el pago acordado en la cotización",
       "step4": "Te contactaremos para comenzar a trabajar",
       "quote": "COTIZA TU SERVICIO",
       "pay": "REALIZA EL PAGO"
@@ -237,76 +237,76 @@
   "product": {
     "customDesign": {
       "title": "Diseño Personalizado",
-      "description": "Generaremos un paquete de servicios de acuerdo a la propuesta enviada por nuestro equipo de ventas.",
-      "proposalNumber": "Número de propuesta:",
-      "proposalAmount": "Monto de la propuesta ( $MXN)",
-      "addToCart": "Añadir al carrito"
+      "description": "Generaremos un paquete de servicios de acuerdo con la propuesta enviada por nuestro equipo de ventas.",
+      "proposalNumber": "Número de Propuesta:",
+      "proposalAmount": "Monto de la Propuesta ( $MXN)",
+      "addToCart": "Añadir al Carrito"
     }
   },
   "cart": {
     "title": "Carrito",
-    "remove": "Eliminar artículo",
-    "thumbnail": "Imagen en miniatura",
+    "remove": "Eliminar Artículo",
+    "thumbnail": "Imagen en Miniatura",
     "product": "Producto",
     "price": "Precio",
     "quantity": "Cantidad",
     "subtotal": "Subtotal",
     "coupon": "Cupón:",
-    "couponCode": "Código de cupón",
-    "applyCoupon": "Aplicar cupón",
-    "cartTotal": "Total del carrito",
+    "couponCode": "Código de Cupón",
+    "applyCoupon": "Aplicar Cupón",
+    "cartTotal": "Total del Carrito",
     "subtotalLabel": "Subtotal",
-    "iva": "iva",
+    "iva": "IVA",
     "total": "Total",
-    "checkout": "Finalizar compra",
+    "checkout": "Finalizar Compra",
     "removeLink": "[Eliminar]",
     "undo": "¿Deshacer?",
     "removedMessage": "eliminado.",
     "appliedCoupon": "Cupón aplicado a tu compra",
-    "viewCart": "Ver carrito"
+    "viewCart": "Ver Carrito"
   },
   "checkout": {
-    "title": "Finalizar compra",
+    "title": "Finalizar Compra",
     "couponPrompt": "¿Tienes un cupón? Haz clic aquí para introducir tu código",
-    "billing": "Detalles de facturación",
+    "billing": "Detalles de Facturación",
     "firstName": "Nombre",
     "lastName": "Apellidos",
-    "company": "Nombre de la empresa (opcional)",
+    "company": "Nombre de la Empresa (opcional)",
     "country": "País/Región",
-    "address": "Dirección de la calle",
-    "address2": "Número de la casa y nombre de la calle",
-    "address3": "Colonia, Apartamento, habitación, etc. (opcional)",
+    "address": "Dirección de la Calle",
+    "address2": "Número de la Casa y Nombre de la Calle",
+    "address3": "Colonia, Apartamento, Habitación, etc. (opcional)",
     "city": "Localidad / Ciudad",
     "state": "Región / Estado",
-    "postalCode": "Código postal",
+    "postalCode": "Código Postal",
     "phone": "Teléfono",
-    "email": "Dirección de correo electrónico",
-    "additionalInfo": "Información adicional",
-    "orderNotes": "Indicaciones del pedido (opcional)",
-    "orderNotesPlaceholder": "Detalles adicionales del pedido, referencias de la dirección, etc",
-    "yourOrder": "Tu pedido",
-    "creditCard": "Tarjeta de Crédito o débito.",
-    "enterCardData": "Ingresar datos de tarjeta",
-    "cardName": "Nombre en la tarjeta",
-    "cardNumber": "Número de tarjeta",
+    "email": "Dirección de Correo Electrónico",
+    "additionalInfo": "Información Adicional",
+    "orderNotes": "Indicaciones del Pedido (opcional)",
+    "orderNotesPlaceholder": "Detalles adicionales del pedido, referencias de la dirección, etc.",
+    "yourOrder": "Tu Pedido",
+    "creditCard": "Tarjeta de Crédito o Débito.",
+    "enterCardData": "Ingresar Datos de Tarjeta",
+    "cardName": "Nombre en la Tarjeta",
+    "cardNumber": "Número de Tarjeta",
     "expiry": "MM/AA",
     "cvc": "CVC",
     "privacyText": "Tus datos personales se utilizarán para procesar tu pedido, mejorar tu experiencia en esta web y otros propósitos descritos en nuestra",
     "privacyLink": "política de privacidad",
-    "placeOrder": "Realizar el pedido"
+    "placeOrder": "Realizar el Pedido"
   },
   "success": {
-    "title": "¡Compra exitosa!",
+    "title": "¡Compra Exitosa!",
     "subtitle": "Gracias por tu compra",
-    "orderSummary": "Resumen de tu pedido",
-    "continueShopping": "Seguir comprando",
+    "orderSummary": "Resumen de tu Pedido",
+    "continueShopping": "Seguir Comprando",
     "transaction": "Transacción:"
   },
   "legal": {
     "comingSoon": "Próximamente serán incluidos los legales correspondientes a esta vista.",
-    "privacy": "Política de privacidad",
-    "terms": "Términos y condiciones",
-    "refund": "Política de devoluciones y reembolso"
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "refund": "Política de Devoluciones y Reembolso"
   },
   "notifications": {
     "formSuccess": "¡Tu mensaje ha sido enviado con éxito!",
@@ -320,10 +320,10 @@
   },
   "emails": {
     "contact": {
-      "subject": "Mensaje recibido - PublicidadActiva",
-      "adminSubject": "[FWD] Nuevo mensaje de contacto - PublicidadActiva",
-      "title": "Nuevo mensaje de contacto",
-      "received": "Mensaje recibido",
+      "subject": "Mensaje Recibido - PublicidadActiva",
+      "adminSubject": "[FWD] Nuevo Mensaje de Contacto - PublicidadActiva",
+      "title": "Nuevo Mensaje de Contacto",
+      "received": "Mensaje Recibido",
       "hello": "Hola",
       "receivedMessage": "Hemos recibido tu mensaje y nos pondremos en contacto contigo pronto.",
       "labels": {
@@ -335,18 +335,18 @@
       }
     },
     "purchase": {
-      "subject": "¡Compra confirmada! - PublicidadActiva",
-      "adminSubject": "[FWD] Nueva compra - PublicidadActiva",
-      "title": "¡Compra confirmada!",
-      "newPurchase": "Nueva compra",
+      "subject": "¡Compra Confirmada! - PublicidadActiva",
+      "adminSubject": "[FWD] Nueva Compra - PublicidadActiva",
+      "title": "¡Compra Confirmada!",
+      "newPurchase": "Nueva Compra",
       "hello": "Hola",
       "processed": "Tu pedido ha sido procesado correctamente.",
-      "orderSummary": "Resumen de tu pedido",
+      "orderSummary": "Resumen de tu Pedido",
       "subtotal": "Subtotal:",
       "discount": "Descuento:",
       "tax": "IVA (16%):",
       "total": "Total:",
-      "couponUsed": "Cupón utilizado:",
+      "couponUsed": "Cupón Utilizado:",
       "transaction": "Transacción:",
       "thanks": "Gracias por tu compra en",
       "customer": "Cliente:"

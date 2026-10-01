@@ -17,80 +17,80 @@
   },
   "home": {
     "hero": {
-      "title": "We are PublicidadActiva",
-      "subtitle": "Creative and Design Agency",
-      "description": "A comprehensive graphic design and content strategy agency dedicated to emotionally connecting brands with their audience. At PublicidadActiva, we don't just design; we narrate visually captivating stories that build lasting relationships and loyalty.",
-      "cta": "Discover more"
+      "title": "At PublicidadActiva, We're Your Creative Ally",
+      "subtitle": "Design and Visual Communication Studio",
+      "description": "A multidisciplinary team focused on graphic design and content strategies that build genuine bonds between your brand and its audience. Here we don't just craft visuals: we tell stories that stay in people's memory and strengthen your customers' trust.",
+      "cta": "Learn More"
     },
     "whatWeDo": {
-      "title": "WHAT we do?",
+      "title": "What Do We Do?",
       "services": {
         "uxResearch": {
           "title": "UX Research",
-          "description": "We dive deep into your users' needs and behaviors to optimize the interface and experience of your digital solutions, ensuring intuitive and satisfying navigation."
+          "description": "We dig deep into how people think and behave when using your digital products, so we can refine every screen and deliver clear, comfortable and satisfying journeys."
         },
         "brandIdentity": {
           "title": "Brand Identity",
-          "description": "We build and renew your visual identity to effectively communicate the values and essence of your brand, creating a lasting impact on your audience."
+          "description": "We shape and refresh your brand's image so it clearly conveys what it stands for, leaving a strong and lasting impression on everyone who sees it."
         },
         "webDevelopment": {
           "title": "Web Development",
-          "description": "We develop attractive and functional websites that reflect the quality and professionalism of your brand, ensuring an optimal user experience."
+          "description": "We build carefully crafted websites — attractive and functional — that reflect your brand's professionalism and offer a smooth experience on any device."
         },
         "businessStrategy": {
           "title": "Business Strategy",
-          "description": "We offer strategic consulting to align your business objectives with design and content, driving growth and innovation in your business."
+          "description": "We support your business with strategic advice that connects your commercial goals with design and content, driving steady growth and renewal."
         },
         "webDesign": {
           "title": "Web Design",
-          "description": "We create web designs that not only look spectacular but are also effective, improving user interaction and increasing conversions."
+          "description": "We design pages that not only look good but also perform: they improve the visitor experience and help turn more opportunities into customers."
         },
         "photography": {
           "title": "Photography",
-          "description": "We capture the essence of your products and services with high-quality photographs that enhance and complement your brand identity across all platforms."
+          "description": "We capture your products and services with high-quality images that reinforce your visual identity and work on every platform where you're present."
         }
       },
-      "couponButton": "Want a coupon?"
+      "couponButton": "Want a Coupon?"
     },
     "ideas": {
-      "title": "Generating new Ideas. Solving challenges.",
-      "description": "At PublicidadActiva, we stand out for our ability to transform complex challenges into creative and effective solutions. Our dedication to innovation and excellence has driven the continued success of our clients."
+      "title": "We Imagine Differently. We Solve with Judgment.",
+      "description": "At PublicidadActiva we stand out for turning complex challenges into creative and functional answers. Our commitment to innovation and well-done work has been key to the sustained success of those who trust us."
     },
     "whyDifferent": {
-      "title": "WHY ARE WE DIFFERENT?",
-      "description": "At PublicidadActiva, we believe that design goes beyond aesthetics. Each project is an opportunity to create a unique emotional connection, transforming ideas into visual experiences that communicate and captivate.",
+      "title": "Why Do We Stand Out?",
+      "description": "At PublicidadActiva we see design as something that goes beyond looks. Every project is a chance to create a unique emotional bond, turning ideas into experiences that communicate and captivate.",
       "points": {
-        "stories": "Visual stories that connect: Every design we create tells a story, meticulously crafted to resonate with your audience.",
-        "strategies": "Personalized strategies: We understand that every brand is unique. Our design solutions are customized to perfectly align with your objectives.",
-        "results": "Results you can see: More than just design, we provide measurable results that drive growth and brand loyalty."
+        "stories": "Stories That Connect: every design we make tells a story crafted to speak to your audience.",
+        "strategies": "Tailored Approaches: we know no two brands are alike. That's why we adapt each solution to your specific goals.",
+        "results": "Visible Results: beyond design, we deliver measurable impact that drives growth and brand preference."
       },
       "cta": "Discover More"
     },
     "latestDesigns": {
-      "title": "OUR LATEST DESIGNS",
-      "description": "At PublicidadActiva, every project is an opportunity to innovate and demonstrate our commitment to excellence. Take a look at some of our most recent projects and discover how we help brands shine:"
+      "title": "Recent Projects",
+      "description": "At PublicidadActiva every piece of work is a chance to explore new ideas and reaffirm our commitment to quality. Take a look at some of the projects we've recently completed and see how we help brands stand out:"
     },
     "skills": {
-      "title": "our skills",
-      "description": "At PublicidadActiva, we transform our passion for design into visual solutions that capture and communicate the essence of your brand. Here's how we make it possible:",
-      "branding": "Branding: We create memorable brand identities that resonate with your target audience and stand the test of time.",
-      "interfaces": "Interface Design: We design clean, intuitive, and efficient interfaces that improve user interaction and overall functionality.",
-      "webDev": "Web Development: We build websites that not only look good but also function flawlessly, optimized for all devices and browsers."
+      "title": "Our Capabilities",
+      "description": "At PublicidadActiva we turn our passion for design into visual solutions that capture and express the essence of your brand. Here's how we put it into practice:",
+      "branding": "Branding: we develop memorable identities that speak to your audience and last over time.",
+      "interfaces": "Interface Design: we create clean, intuitive and functional screens that improve the experience and the product's overall performance.",
+      "webDev": "Web Development: we build sites that not only look great but also run flawlessly, adapted to all kinds of devices and browsers."
     },
-    "fusion": "At PublicidadActiva, we fuse art and strategy to bring to life visual projects that not only attract but also connect emotionally with your audience.",
+    "fusion": "At PublicidadActiva we blend art and strategy to shape visual projects that attract and, at the same time, create an emotional connection with those who see them.",
     "awarded": {
-      "title": "Award-winning design by PublicidadActiva",
-      "description": "At PublicidadActiva, our commitment to excellence has led us to obtain numerous recognitions in the world of design. Our approach focuses on fusing aesthetics and functionality to create visual solutions that not only capture attention but also tell stories and build solid brands.",
-      "product": "Product Design: Our product designs are not only visually appealing but also functional and adapted to current market needs.",
-      "branding": "Brand Identity: We develop brand identities that reflect the essence of your company, ensuring that each element conveys your vision and values consistently.",
+      "title": "Award-Winning Design by PublicidadActiva",
+      "description": "At PublicidadActiva, our commitment to doing things well has earned us several recognitions within the design world. Our approach seeks to unite the aesthetic with the functional to create visual solutions that grab attention, tell stories and strengthen brands.",
+      "product": "Product Design: our product proposals stand out for their visual appeal, their usefulness and their adaptation to what the market demands today.",
+      "branding": "Brand Identity: we create identities that reflect your company's spirit, making sure every element communicates your vision and values consistently.",
       "tags": {
         "product": "Product",
         "branding": "Branding"
       }
     },
     "contact": {
-      "title": "Let's start something new",
-      "description": "Let's start a dialogue that can transform your business. Tell us your ideas and challenges; our team is ready to turn them into creative opportunities and effective solutions. Complete the fields below and we will contact you.",
+      "title": "Let's Start Something New",
+      "description": "Let's open a conversation that could reshape your business. Share your ideas and challenges with us; our team is ready to turn them into creative opportunities and effective solutions. Fill in the fields below and we'll get in touch.",
       "form": {
         "name": "Name",
         "email": "Email",
@@ -101,7 +101,7 @@
     }
   },
   "services": {
-    "title": "Our services",
+    "title": "Our Services",
     "includes": "INCLUDES:",
     "hire": "Hire",
     "items": {
@@ -238,68 +238,68 @@
     "customDesign": {
       "title": "Custom Design",
       "description": "We will generate a package of services according to the proposal sent by our sales team.",
-      "proposalNumber": "Proposal number:",
-      "proposalAmount": "Proposal amount ( $MXN)",
-      "addToCart": "Add to cart"
+      "proposalNumber": "Proposal Number:",
+      "proposalAmount": "Proposal Amount ( $MXN)",
+      "addToCart": "Add to Cart"
     }
   },
   "cart": {
     "title": "Cart",
-    "remove": "Remove item",
+    "remove": "Remove Item",
     "thumbnail": "Thumbnail",
     "product": "Product",
     "price": "Price",
     "quantity": "Quantity",
     "subtotal": "Subtotal",
     "coupon": "Coupon:",
-    "couponCode": "Coupon code",
-    "applyCoupon": "Apply coupon",
-    "cartTotal": "Cart total",
+    "couponCode": "Coupon Code",
+    "applyCoupon": "Apply Coupon",
+    "cartTotal": "Cart Total",
     "subtotalLabel": "Subtotal",
     "iva": "VAT",
     "total": "Total",
-    "checkout": "Proceed to checkout",
+    "checkout": "Proceed to Checkout",
     "removeLink": "[Remove]",
     "undo": "Undo?",
     "removedMessage": "removed.",
     "appliedCoupon": "Coupon applied to your purchase",
-    "viewCart": "View cart"
+    "viewCart": "View Cart"
   },
   "checkout": {
     "title": "Checkout",
     "couponPrompt": "Have a coupon? Click here to enter your code",
-    "billing": "Billing details",
-    "firstName": "First name",
-    "lastName": "Last name",
-    "company": "Company name (optional)",
+    "billing": "Billing Details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "company": "Company Name (optional)",
     "country": "Country/Region",
-    "address": "Street address",
-    "address2": "House number and street name",
-    "address3": "Apartment, suite, unit, etc. (optional)",
+    "address": "Street Address",
+    "address2": "House Number and Street Name",
+    "address3": "Apartment, Suite, Unit, etc. (optional)",
     "city": "Town / City",
     "state": "State / County",
-    "postalCode": "Postal code",
+    "postalCode": "Postal Code",
     "phone": "Phone",
-    "email": "Email address",
-    "additionalInfo": "Additional information",
-    "orderNotes": "Order notes (optional)",
+    "email": "Email Address",
+    "additionalInfo": "Additional Information",
+    "orderNotes": "Order Notes (optional)",
     "orderNotesPlaceholder": "Additional order details, address references, etc.",
-    "yourOrder": "Your order",
-    "creditCard": "Credit or debit card.",
-    "enterCardData": "Enter card details",
-    "cardName": "Name on card",
-    "cardNumber": "Card number",
+    "yourOrder": "Your Order",
+    "creditCard": "Credit or Debit Card.",
+    "enterCardData": "Enter Card Details",
+    "cardName": "Name on Card",
+    "cardNumber": "Card Number",
     "expiry": "MM/YY",
     "cvc": "CVC",
     "privacyText": "Your personal data will be used to process your order, improve your experience on this website and other purposes described in our",
     "privacyLink": "privacy policy",
-    "placeOrder": "Place order"
+    "placeOrder": "Place Order"
   },
   "success": {
-    "title": "Purchase successful!",
+    "title": "Purchase Successful!",
     "subtitle": "Thank you for your purchase",
-    "orderSummary": "Order summary",
-    "continueShopping": "Continue shopping",
+    "orderSummary": "Order Summary",
+    "continueShopping": "Continue Shopping",
     "transaction": "Transaction:"
   },
   "legal": {
@@ -346,7 +346,7 @@
       "discount": "Discount:",
       "tax": "Tax (16%):",
       "total": "Total:",
-      "couponUsed": "Coupon used:",
+      "couponUsed": "Coupon Used:",
       "transaction": "Transaction:",
       "thanks": "Thank you for your purchase at",
       "customer": "Customer:"
