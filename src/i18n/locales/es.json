@@ -224,15 +224,15 @@
       "CRE-3GMWJ1": []
     },
     "customDesign": {
-      "title": "Diseño Personalizado",
-      "description": "Puedes elegir más de un servicio para crear un paquete o contactarnos para ofrecerte una excelente opción acorde a tu presupuesto.",
-      "step1": "Contacta a uno de nuestros agentes para decirle qué necesitas",
-      "step2": "Recibirás una cotización personalizada",
-      "step3": "Realiza el pago acordado en la cotización",
-      "step4": "Te contactaremos para comenzar a trabajar",
-      "quote": "COTIZA TU SERVICIO",
-      "pay": "REALIZA EL PAGO"
-    }
+  "title": "Proyecto a tu Medida",
+  "description": "Combina los servicios que necesites para armar un paquete propio, o bien escríbenos y con gusto te proponemos una alternativa que se ajuste a tu presupuesto.",
+  "step1": "Ponte en contacto con uno de nuestros asesores y cuéntanos qué tienes en mente",
+  "step2": "Te haremos llegar una cotización hecha a la medida",
+  "step3": "Una vez aprobada la propuesta, realiza el pago correspondiente",
+  "step4": "Nos comunicaremos contigo para dar inicio al proyecto",
+  "quote": "COTIZA TU SERVICIO",
+  "pay": "REALIZA EL PAGO"
+}
   },
   "product": {
     "customDesign": {
@@ -351,5 +351,154 @@
       "thanks": "Gracias por tu compra en",
       "customer": "Cliente:"
     }
+  },
+    "legalPrivacy": {
+    "title": "Política de Privacidad",
+    "lastUpdate": "Última actualización: PublicidadActiva",
+    "blocks": [
+      { "type": "paragraph", "text": "COMMERCE GRENAVEL S.A. DE C.V. (“PublicidadActiva”) es una sociedad constituida conforme las leyes mexicanas, la cual tiene por objeto proporcionar servicios profesionales en el área de mercadotecnia digital, con domicilio en Ciudad de México; y en atención a lo dispuesto por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (“LFPDPPP”), se compromete a la protección de Datos Personales (“Datos”) de toda persona que ingrese al dominio de publicidadactiva.com.mx (\"Sitio Web\"). PublicidadActiva, asume la responsabilidad por el uso, manejo y confidencialidad de estos Datos, a través del presente Aviso de Privacidad (el “Aviso”)." },
+      { "type": "paragraph", "text": "PublicidadActiva se dedica a salvaguardar los derechos de privacidad, intimidad y buena reputación en el manejo de datos personales, actuando siempre conforme a los principios delineados en los artículos 6 (seis) y 16 (dieciséis) de la LFPDPPP." },
+      { "type": "paragraph", "text": "Además, PublicidadActiva se reserva el derecho de actualizar este Aviso en cualquier momento. Las modificaciones se reflejarán mediante la publicación de los términos revisados en los Servicios, y la fecha de la “última actualización” se ajustará en consecuencia, ubicada en la parte superior del documento." },
+      { "type": "heading", "text": "1.- ¿Qué datos personales recopilamos?" },
+      { "type": "paragraph", "text": "En PublicidadActiva recopilamos Datos que usted activamente nos envía, pudiendo procesar sus datos personales con o sin medios automáticos, lo cual incluye la recopilación, organización, almacenamiento, análisis, consulta, uso, divulgación por transmisión, combinación, restricción, borrado o destrucción de los Datos del Usuario." },
+      { "type": "subheading", "text": "1. Datos enviados activamente" },
+      { "type": "paragraph", "text": "El Usuario envía a PublicidadActiva sus Datos cuando se registra en nuestro formulario el cual tiene como objetivo iniciar un diálogo el cual permita el intercambio de información la cual se conforma de: (i) Nombre completo; (ii) Correo electrónico; y (iii) Nombre de la Empresa donde trabaja o es dueña." },
+      { "type": "paragraph", "text": "Cuando visite nuestro Sitio Web, se puede recopilar información que el explorador web envía cada vez que usted visita un sitio web. Esa información puede incluir, a título enunciativo y no limitativo, su dirección de protocolo de internet (dirección de IP), tipo de explorador, sistema operativo, preferencia de idioma, cualquier página web que usted haya visitado antes y que lo haya referido a nuestro sitio, fecha y hora de cada solicitud de visitante, información buscada en nuestros recursos y demás información recopilada por cookies o tecnologías similares. Consulte la herramienta Preferencias de cookies (“Herramienta de cookies”) publicada en nuestro Sitio Web, para aprender más acerca de las cookies, incluso los tipos de cookies y las especificaciones sobre las cookies que utilizamos. Sin embargo, si no acepta cookies, no podrá utilizar algunas secciones o funciones de nuestros sitios o aplicaciones, tal como se describe en la Herramienta de cookies." },
+      { "type": "subheading", "text": "2. ¿Cuáles son las razones por las que procesamos datos personales?" },
+      { "type": "paragraph", "text": "Nosotros procesamos sus Datos para distintos fines, no obstante, los principales son los siguientes: (i) Para la identificación, conocimiento y validación de la identidad de los Usuarios que deseen incorporarse a PublicidadActiva; (ii) para administrar, operar y cuestiones de seguimiento a los Servicios contratados con PublicidadActiva; (iii) Para el envío de correos electrónicos con información sobre los Servicios contratados; (iv) Para responder dudas, quejas, comentarios, peticiones y para proporcionar servicio al cliente; (v) Para el cumplimiento de las obligaciones que establece la LFPDPPP, así como las autoridades competentes. (vi) Para fines de mercado, publicidad y/o prospección comercial; y (vii) Para el uso de testimonios de clientes y/o usuarios con fines meramente publicitarios y comercial, referentes a los Servicios ofrecidos por PublicidadActiva." },
+      { "type": "paragraph", "text": "También podemos utilizar sus datos personales para propósitos internos, tales como auditoría, análisis de datos, solución de problemas de sistema e investigación. En estos casos, basamos nuestro procesamiento en el interés legítimo de desempeñar las actividades de PublicidadActiva." },
+      { "type": "subheading", "text": "3. ¿Con quién compartimos datos personales?" },
+      { "type": "paragraph", "text": "Compartimos sus datos personales con terceros en las siguientes circunstancias:" },
+      { "type": "list", "items": [
+        "Terceros que son proveedores. PublicidadActiva puede proporcionar Datos a terceros para que los procesen en el desempeño de funciones en nombre nuestro como procesadores de datos (por ejemplo: procesamiento de pagos, mantenimiento, seguridad, análisis de datos, hospedaje web, servicios de medición, mensajes de redes sociales controlados por datos, encuestas, etc.). En tales casos, de conformidad con este aviso y con la legislación pertinente, los proveedores estarán obligados por contrato a proteger los Datos contra cualquier procesamiento adicional (incluso para fines de mercadeo) o transferencia.",
+        "Requisitos legales. PublicidadActiva puede tener acceso y divulgar sus Datos, si tenemos una razón de buena fe para considerar que el hacerlo es requerido por una orden de comparecencia, una orden judicial o administrativa o si es requerido por la Ley de cualquier otra manera. Además, podemos divulgar su información personal u otra información según lo requiera la ley o para ejercer o defender derechos legales; para tomar precauciones para evitar incurrir en problemas relacionados con responsabilidad civil; para proteger los derechos, la propiedad o la seguridad del recurso, de cualquier persona o del público en general; para mantener y proteger la seguridad e integridad de nuestros servicios o infraestructura; para protegernos a nosotros mismos y a nuestros servicios de usos fraudulentos, abusivos o ilegales; para investigar y defendernos contra reclamos o denuncias de terceros; o para ayudar a los organismos gubernamentales del orden público."
+      ]},
+      { "type": "subheading", "text": "4. ¿Cómo protegemos los datos personales?" },
+      { "type": "paragraph", "text": "Aplicamos medidas técnicas y organizativas para proteger los Datos que recibimos a fin de impedir su pérdida, mal uso y alteración no autorizada, y para proteger su confidencialidad. Revisamos periódicamente nuestros procedimientos de seguridad y consideramos nuevas tecnologías de seguridad y métodos apropiados." },
+      { "type": "subheading", "text": "5. ¿Por cuánto tiempo retenemos los datos personales?" },
+      { "type": "paragraph", "text": "Conservamos los Datos recopilados, incluso la información recopilada durante un período razonable a fin de cumplir con los propósitos de procesamiento antes mencionados. Luego, los archivamos por el período de tiempo requerido por ley o por otras consideraciones legales. Cuando el archivado ya no es necesario, eliminamos los Datos de nuestros registros." },
+      { "type": "subheading", "text": "6. ¿Cómo puede tener acceso y corregir sus datos personales?" },
+      { "type": "paragraph", "text": "Nos esforzamos por mantener la exactitud de los Datos y confiamos en usted para garantizar que sus datos personales estén completos y sean exactos. El Usuario podrá ejercer cualquiera de los derechos de Acceso, Rectificación, Cancelación u Oposición (ARCO), los cuales se enlistan y explican a continuación:" },
+      { "type": "list", "items": [
+        "Acceso: El Usuario podrá solicitar información sobre los datos personales que PublicidadActiva tiene almacenado y cómo se utiliza.",
+        "Rectificación: Si los datos personales que PublicidadActiva tiene son incorrectos o incompletos, el Usuario podrá solicitar su corrección o actualización.",
+        "Cancelación: En caso de que el Usuario desee que se eliminen sus datos personales de la base de PublicidadActiva, puede solicitar la cancelación de estos.",
+        "Oposición: El Usuario tiene el derecho de oponerse al tratamiento de sus datos personales para fines específicos, como el envío de comunicaciones comerciales."
+      ]},
+      { "type": "paragraph", "text": "El Usuario para ejercer sus derechos deberá enviar un correo electrónico a la dirección atencion@publicidadactiva.com.mx, mediante formato libre dirigido a PublicidadActiva y contener todos los elementos para poder atender la solicitud. La solicitud ARCO deberá contener y acompañar lo que señala la LFPDPPP en sus Artículos 29, y demás relativos, los cuales se resumen en lo siguiente:" },
+      { "type": "list", "items": [
+        "El nombre del titular y domicilio u otro medio para comunicarle la respuesta a su solicitud;",
+        "Los documentos que acrediten la identidad o, en su caso, la representación legal del titular;",
+        "La descripción clara y precisa de los datos personales respecto de los que se busca ejercer alguno de los derechos antes mencionados, y",
+        "Cualquier otro elemento o documento que facilite la localización de los datos personales"
+      ]},
+      { "type": "heading", "text": "7.- Autoridades Competentes." },
+      { "type": "paragraph", "text": "En caso de considerarlo necesario, PublicidadActiva le informa al Usuario, que se tiene el derecho de acudir ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI) para hacer valer cualquier inconformidad relacionada con el tratamiento de tus datos personales por parte de PublicidadActiva." },
+      { "type": "heading", "text": "8.- Póngase en contacto con nosotros." },
+      { "type": "paragraph", "text": "Las consultas relativas a este Aviso o a la seguridad de los Datos que procesamos pueden enviarse a través de nuestro correo electrónico atencion@publicidadactiva.com.mx." }
+    ]
+  },
+  "legalTerms": {
+    "title": "Términos y Condiciones",
+    "lastUpdate": "Última actualización: PublicidadActiva",
+    "blocks": [
+      { "type": "paragraph", "text": "Estos Términos y Condiciones de Uso de PublicidadActiva, regulan el uso del sitio web publicidadactiva.com.mx (“Sitio Web”) y los servicios disponibles en el Sitio Web (“Servicios”). El Sitio Web es operado en México por Commerce Grenavel, S.A. de C.V., con sede en Ciudad de México." },
+      { "type": "heading", "text": "1.- Disposiciones Generales." },
+      { "type": "paragraph", "text": "Le sugerimos al Usuario que lea detenidamente y se asegure de que comprende y acepta todas las condiciones establecidas en estos términos (“Términos”), ya que las reglas, obligaciones y derechos previstos son vinculantes y son válidos para todos los usuarios del Sitio Web, En caso de duda, el Usuario puede enviar un correo atencion@publicidadactiva.com.mx" },
+      { "type": "paragraph", "text": "PublicidadActiva ofrece servicios variados, al utilizar un servicio en particular, el Usuario estará sujeto a las pautas, términos y condiciones aplicables a ese Servicio. A menos que se indique lo contrario, cualquier característica nueva que aumente o mejore los Servicios actualmente disponibles, incluidas las nuevas versiones, estará sujeta automáticamente a los Términos." },
+      { "type": "paragraph", "text": "Si no está de acuerdo con los Términos, le pedimos al Usuario que no utilice el Sitio Web, se registre, ni envíe datos, ya sean personales o de otro tipo." },
+      { "type": "paragraph", "text": "El uso del Sitio Web solo está disponible para las personas físicas o morales que tengan capacidad legal para contratar los Servicios y para que se les asigne automáticamente la condición de Usuario, e implica la aceptación, en su totalidad y sin reservas, de todas las disposiciones incluidas en los Términos en la versión vigente en el momento del acceso a el Sitio Web." },
+      { "type": "paragraph", "text": "La información requerida para el registro como Usuario se describe en el Aviso de Privacidad." },
+      { "type": "heading", "text": "2.- Fundamento Legal." },
+      { "type": "paragraph", "text": "PublicidadActiva se compromete a cumplir con la legislación vigente para la oferta de sus Servicios y garantizar la privacidad de los Usuarios así como sus Clientes incluyendo, pero no limitado a la Ley Federal de Protección al Consumidor, la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, la Ley Federal de Competencia Económica, el Código Civil Federal y el Código de Comercio, y debe hacer que la siguiente información esté disponible en un lugar destacado y fácil de ver:" },
+      { "type": "list", "items": [
+        "Denominación/Razón social o Identificación Oficial Mexicana (en caso de persona física) y CURP (Clave única de Registro de Población);",
+        "Dirección física y correo electrónico, y otra información necesaria para su ubicación y contacto;",
+        "Características esenciales del producto o servicio, incluidos los riesgos para la salud y la seguridad de los consumidores; discriminación de precios de cualquier gasto adicional o incidental, como entrega o seguro;",
+        "Términos y condiciones completos de la oferta, incluidos los términos de pago, disponibilidad, forma y plazo de ejecución del servicio o entrega o disponibilidad del producto;",
+        "Información clara y visible sobre cualquier restricción en el disfrute de la oferta;",
+        "Información clara y visible sobre la recopilación y protección de datos personales de los visitantes y sus registros de acceso al Sitio Web, teniendo en cuenta que los datos se compartirán y procesarán en servidores de PublicidadActiva o de quien PublicidadActiva designe a tal fin;",
+        "Identificación Oficial Mexicana y la información de contacto de la persona designada por PublicidadActiva para actuar como canal de comunicación entre el Usuario y los est4e debiendo la información de contacto ser divulgadas públicamente, de forma clara y objetiva, en el Sitio Web del Usuario;",
+        "Información clara y visible sobre los medios adecuados y efectivos para que el consumidor ejerza el derecho al arrepentimiento y/o revocación de compra;",
+        "Información clara y visible sobre el derecho que tiene el consumidor a que se le informe si los productos o servicios cuentan con garantía, el procedimiento para hacerla efectiva y los requisitos y condiciones aplicables."
+      ]},
+      { "type": "paragraph", "text": "Cuando no esté impedido por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, PublicidadActiva se compromete a obtener el consentimiento libre, informado e inequívoco de los visitantes del Sitio Web a través de un aviso de privacidad, para que sus datos personales y registros de acceso al Sitio Web sean cedidos y procesados por PublicidadActiva exclusivamente para la prestación de servicios por parte de PublicidadActiva." },
+      { "type": "heading", "text": "3.- Descripción de Servicios, Precio y Pago" },
+      { "type": "paragraph", "text": "PublicidadActiva es un proveedor de servicios de diseño gráfico y estrategias de contenido dedicada a conectar emocionalmente a las marcas con su audiencia. El Usuario podrá elegir entre distintos servicios, los cuales tienen diferentes características. Los precios cobrados están sujetos a cambios en cualquier momento a discreción exclusiva de PublicidadActiva, los cuales estarán reflejados en pesos mexicanos." },
+      { "type": "paragraph", "text": "Independientemente del plan elegido, se pondrá a disposición del Usuario, entre otras características:" },
+      { "type": "list", "items": [
+        "Tienda Virtual: una Tienda virtual con capacidad para poner a disposición del público en general, a través de internet, la venta de servicios del Usuario, sin necesidad de contratar un servicio de hosting, siempre que el contenido vendido en el Sitio Web cumpla con los Términos y/o la legislación aplicable.",
+        "Sistema “Carrito de Compras”: El Sitio Web tendrá la posibilidad de contar con un sistema que permita a los visitantes seleccionar los productos de su interés, detallando todos los pasos necesarios para completar la compra."
+      ]},
+      { "type": "paragraph", "text": "Para la contratación de servicios a través de este Sitio Web, el Usuario deberá disponer de una tarjeta de crédito o débito emitida por una institución bancaria legalmente constituida, o utilizar alguno de los métodos de pago disponibles en PublicidadActiva. De la misma manera, el Usuario debe autorizar el cargo correspondiente a la contratación de los Servicios." },
+      { "type": "paragraph", "text": "El encargado de la transacción de contratación es un Proveedor de Procesamiento de Pagos Autorizado (“Procesador Autorizado”) en la materia, por lo que PublicidadActiva no almacena, procesa, ni transmite los datos bancarios del Cliente. PublicidadActiva, siguiendo buenas prácticas, verifica que el Procesador Autorizado cuente con las certificaciones del Payment Card Industry Data Security Standard (en adelante “PCI”)." },
+      { "type": "paragraph", "text": "Aunque PublicidadActiva emplea medidas de seguridad de la industria para proteger su Sitio Web, recomienda al Usuario cuidar su número de tarjeta, fecha de expiración y, en especial, no proporcionar el código de seguridad, el cual no será almacenado por el Procesador Autorizado para proteger la información confidencial del Cliente. Por lo tanto, PublicidadActiva no se responsabiliza por daños o mal uso de los datos mencionados." },
+      { "type": "paragraph", "text": "Una vez que se haya completado la transacción de contratación del Servicio en este Sitio Web y el pago haya sido autorizado por la institución bancaria de la tarjeta de crédito o débito, o confirmado a través de otro método de pago, aparecerá una pantalla notificando al Usuario que ha recibido un correo electrónico con las instrucciones para la ejecución de los Servicios contratados." },
+      { "type": "paragraph", "text": "En relación con las devoluciones, todas las solicitudes de devoluciones y reembolsos se gestionarán de acuerdo con la Política de Devoluciones estipulada en este Sitio Web." },
+      { "type": "heading", "text": "4.- Propiedad Intelectual y Licencias" },
+      { "type": "paragraph", "text": "Todos los elementos del Sitio Web están protegidos por Derechos de Propiedad Intelectual de PublicidadActiva o de terceros, incluidos, entre otros, secretos comerciales, derechos de autor y marcas." },
+      { "type": "paragraph", "text": "Estos Términos o el uso del Sitio Web no le otorgan ninguna licencia o derecho para usar los derechos de propiedad intelectual de PublicidadActiva o de terceros. Excepto por el uso del Sitio Web, según lo dispuesto en este documento. También se compromete a no descompilar, realizar ingeniería inversa, desensamblar, desencriptar o crear trabajos derivados de o basados en el Sitio Web o su contenido." },
+      { "type": "heading", "text": "5.- Confidencialidad" },
+      { "type": "paragraph", "text": "A excepción de los Datos Personales cuya definición y reglas se describen en el Aviso de Privacidad, toda la información que usted proporcione durante el uso del Sitio Web será tratada por PublicidadActiva como confidencial." },
+      { "type": "paragraph", "text": "Sin embargo, no será confidencial la información que es" },
+      { "type": "list", "items": [
+        "Previamente conocida por ser de dominio público;",
+        "Desarrollada en forma independiente por la parte receptora;",
+        "Obtenida de terceros que no están sujetos al correspondiente deber de confidencialidad; o",
+        "Que se haga pública sin que se hayan violado las obligaciones de confidencialidad asumidas en este documento."
+      ]},
+      { "type": "paragraph", "text": "La obligación de confidencialidad aquí establecida permanecerá vigente durante todo el período en el que la información se considere de carácter confidencial." },
+      { "type": "heading", "text": "6.- Información, Disponibilidad y Tecnología" },
+      { "type": "paragraph", "text": "Nuestro objetivo es garantizar que cualquier información disponible en el Sitio Web sea precisa y completa. Sin embargo, toda la información disponible en el Sitio Web se proporciona solo con fines informativos y le recomendamos que verifique la precisión de cualquier información antes de confiar en ella. No tenemos ni pretendemos tener ninguna obligación, pudiendo PublicidadActiva, a su sola discreción, realizar los cambios necesarios para actualizar o corregir cualquier información en el Sitio Web." },
+      { "type": "paragraph", "text": "El Usuario es consciente de que PublicidadActiva recomienda el uso de herramientas y tecnología (hardware y/o software) debidamente seguras y actualizadas para el acceso al Sitio Web." },
+      { "type": "paragraph", "text": "PublicidadActiva no garantiza, bajo ningún concepto, que el Sitio Web esté libre de posibles fallos, interrupciones, virus y otros factores tecnológicos fuera del control del Sitio Web. Por esta razón, PublicidadActiva no se hace responsable de la pérdida de contenido almacenado o fallas." },
+      { "type": "heading", "text": "7.- Misceláneas" },
+      { "type": "paragraph", "text": "La nulidad, anulación o inaplicabilidad de cualquier cláusula o sección de los Términos en forma total o parcial no afectará a las demás cláusulas, que permanecerán intactas y plenamente válidas y con plenos efectos a todos los efectos legales." },
+      { "type": "paragraph", "text": "Estos Términos obligan a PublicidadActiva y al Usuario; los Términos y el uso del Sitio Web no establecen relación laboral, mandato, sociedad, asociación, agencia, representación, consorcio, joint venture, franquicia o responsabilidad solidaria o subsidiaria entre PublicidadActiva y los Usuarios, quienes son personas independientes y autónomas, para todos los efectos legales, ni confiere poderes de representación mutua en ningún negocio legal." },
+      { "type": "heading", "text": "8.- Legislación Y Resolución De Conflictos" },
+      { "type": "paragraph", "text": "Estos Términos se interpretarán de acuerdo con la legislación mexicana." },
+      { "type": "paragraph", "text": "PublicidadActiva se enorgullece de compartir las historias de éxito de los usuarios y realiza sus mejores esfuerzos para que la experiencia con el uso de los Servicios sea positiva. Si esto no sucede por alguna razón, le pedimos que se comunique con nosotros por correo electrónico atencion@publicidadactiva.com.mx, para intentar resolver el problema." },
+      { "type": "paragraph", "text": "Si después de intentar resolver el asunto con nosotros, decide demandarnos ante un tribunal por cualquier disputa, la demanda debe presentarse en los Tribunales de la Ciudad de México." },
+      { "type": "heading", "text": "9.- Actualizaciones de Términos" },
+      { "type": "paragraph", "text": "Los Términos pueden ser actualizados por PublicidadActiva en cualquier momento, con el fin de mejorar los servicios prestados. Si hay un cambio significativo, los nuevos Términos entrarán en vigor un día después de su publicación. Dentro de los 5 (cinco) días corridos a partir de la publicación de la nueva versión, el Usuario debe enviar un correo electrónico a atencion@publicidadactiva.com.mx, si no está de acuerdo con los cambios. En este caso, la relación contractual dejará de existir, mientras no existan importes pendientes. De no existir manifestación dentro del plazo estipulado, se entenderá que el Usuario ha aceptado las nuevas condiciones y el contrato será vinculante para ambas partes." }
+    ]
+  },
+  "legalRefund": {
+    "title": "Política de Devoluciones y Reembolso",
+    "lastUpdate": "Última actualización: PublicidadActiva",
+    "blocks": [
+      { "type": "paragraph", "text": "En PublicidadActiva nos esforzamos por ofrecer servicios de la más alta calidad, por lo que nuestra Política de Reembolsos (la “Política”) está diseñada para proporcionar claridad y transparencia en el proceso de reembolso, asegurando una experiencia justa y consistente para todos los clientes de PublicidadActiva." },
+      { "type": "heading", "text": "1.- Motivos de Devolución, Cancelación y Reembolso." },
+      { "type": "paragraph", "text": "PublicidadActiva pone a disposición del Cliente los distintos motivos de incumplimiento que pueden llevar a la necesidad de utilizar la presente Política. A continuación, se detallan los mismos:" },
+      { "type": "list", "items": [
+        "Calidad del Servicio: El servicio ofrecido por PublicidadActiva no cumple con los estándares de calidad prometidos o esperados.",
+        "Descripción Inexacta: El servicio o producto no coincide con la descripción proporcionada en el momento de la compra.",
+        "Errores en el pedido: La realización de un servicio distinto al solicitado por el cliente.",
+        "Retrasos en la Entrega: Demoras significativas que afectan la utilidad o relevancia del servicio para el cliente.",
+        "Falta de Correspondencia: El servicio prestado no se ajusta a los requisitos establecidos en el contrato o pedido."
+      ]},
+      { "type": "paragraph", "text": "Asimismo, en caso de surgir algún inconveniente con el servicio, como incumplimiento, inconsistencia, parcialidad, defectos o insatisfacción por parte del cliente o de PublicidadActiva, se puede solicitar la cancelación del servicio mediante un acuerdo mutuo. En tal circunstancia, el monto retenido como garantía puede ser reembolsado al cliente, es decir, el importe que no ha sido liberado al profesional por el cliente." },
+      { "type": "paragraph", "text": "En el supuesto de cancelación y reembolso al cliente, el importe será acreditado a la cuenta registrada en PublicidadActiva conforme al método de pago utilizado en la transacción original. Posteriormente, el cliente puede optar por usar el crédito para futuros servicios o solicitar el reembolso a su cuenta bancaria." },
+      { "type": "paragraph", "text": "El Cliente debe cumplir con el proceso de pago establecido por PublicidadActiva. Si el Cliente envía los fondos a PublicidadActiva y posteriormente solicita una cancelación a través de una entidad financiera externa sin antes contactar a PublicidadActiva, será responsable de los costos asociados a dicha cancelación." },
+      { "type": "paragraph", "text": "El derecho a reembolso solo se aplicará si el Cliente ha realizado el pago por los Servicios conforme a lo especificado en el pedido, incluyendo todas las tasas pertinentes." },
+      { "type": "paragraph", "text": "Cualquier costo asociado con el procesamiento del reembolso será asumido exclusivamente por el Cliente. Estos cargos serán deducidos del monto total del reembolso." },
+      { "type": "heading", "text": "2.- De las Condiciones para Reembolsos." },
+      { "type": "paragraph", "text": "Dependiendo del Servicio ofrecido por PublicidadActiva, el Cliente deberá de atender a las siguientes condiciones:" },
+      { "type": "list", "items": [
+        "Formulario de Reembolso: el Cliente debe completar un Formulario de Reembolso y enviarlo a atencion@publicidadactiva.com.mx desde la dirección de correo electrónico asociada a su cuenta en PublicidadActiva.",
+        "Respuesta: PublicidadActiva gestionará el Formulario de Reembolso enviado por el Cliente lo más pronto posible dentro de un marco de tiempo razonable. Los tiempos de respuesta pueden variar en función de los motivos del reembolso y de la carga de trabajo. En cualquier caso, PublicidadActiva informará al Cliente sobre el resultado de su solicitud. El Cliente también puede contactar al departamento de soporte, disponible 24/7, para obtener actualizaciones sobre su petición.",
+        "En caso de que el cliente solicite un reembolso, este se realizará utilizando el mismo método de pago empleado en la transacción original.",
+        "Pagos con tarjeta de crédito: Para pagos realizados con tarjeta de crédito en los últimos 15 a 30 días, el reembolso se efectuará a la misma tarjeta.",
+        "Pagos con tarjeta de débito: Para pagos realizados con tarjeta de débito en los últimos 10 a 15 días, el reembolso se efectuará a la misma tarjeta.",
+        "Pagos mayores a 180 días: Si el pago se realizó hace más de 180 días y el procesador de pagos ya no permite reembolsos (variable según el procesador, entre 180 y 365 días), el reembolso se realizará a la información proporcionada por el cliente, siempre y cuando los datos correspondan al titular original de la compra."
+      ]},
+      { "type": "paragraph", "text": "Notas: No se realizarán reembolsos si el Cliente ha recibido los servicios contratados de acuerdo con su pedido y está completamente satisfecho con ellos. No obstante, si el Cliente cambia de opinión y desea devolver el servicio ya prestado, PublicidadActiva no podrá procesar el reembolso, ya que el servicio se ha cumplido según lo acordado." },
+      { "type": "paragraph", "text": "En situaciones excepcionales, PublicidadActiva se reserva el derecho de evaluar cada caso individualmente y ofrecer soluciones alternativas, como ajustes en los servicios prestados o créditos para futuros proyectos." },
+      { "type": "paragraph", "text": "Si el método de pago utilizado ha sido cancelado o reemplazado, el cliente deberá contactar a su proveedor de servicios para verificar cómo se gestionará el reembolso en este caso. Nosotros, por proceso, enviamos la información del reembolso al operador de la tarjeta." },
+      { "type": "heading", "text": "3.- Contacto y Soporte" },
+      { "type": "paragraph", "text": "Para cualquier consulta relacionada con nuestra Política o para solicitar un reembolso, por favor contacte a nuestro equipo de soporte a través del siguiente correo electrónico: atencion@publicidadactiva.com.mx. En PublicidadActiva estamos disponibles para asistirle y garantizar que todas sus preocupaciones sean atendidas de manera eficiente." },
+      { "type": "heading", "text": "4.- Actualizaciones de la Política" },
+      { "type": "paragraph", "text": "PublicidadActiva se reserva el derecho de actualizar esta Política en cualquier momento. Las modificaciones se publicarán en nuestro sitio web y se indicará la fecha de la última actualización en la parte superior del documento. Se recomienda a los Clientes revisar periódicamente esta Política para estar al tanto de cualquier cambio." }
+    ]
   }
 }

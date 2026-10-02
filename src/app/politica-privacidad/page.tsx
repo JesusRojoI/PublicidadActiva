@@ -1,20 +1,7 @@
 'use client';
 
-import { useTranslation } from 'react-i18next';
+import LegalPage from '@/components/LegalPage';
 
 export default function PrivacyPage() {
-  const { t } = useTranslation();
-  return (
-    <section className="pa-section">
-      <div className="pa-container">
-        <div className="pa-legal">
-          <i className="bi bi-shield-lock" />
-          <h1 className="pa-h2">{t('legal.privacy')}</h1>
-          <p className="pa-lead" style={{ margin: '20px auto 0' }}>
-            {t('legal.comingSoon')}
-          </p>
-        </div>
-      </div>
-    </section>
-  );
+  return <LegalPage namespace="legalPrivacy" />;
 }

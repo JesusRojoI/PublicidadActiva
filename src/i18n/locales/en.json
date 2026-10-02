@@ -224,15 +224,15 @@
       "CRE-3GMWJ1": []
     },
     "customDesign": {
-      "title": "Custom Design",
-      "description": "You can choose more than one service to create a package or contact us to offer you an excellent option according to your budget.",
-      "step1": "Contact one of our agents to tell them what you need",
-      "step2": "You will receive a personalized quote",
-      "step3": "Make the agreed payment in the quote",
-      "step4": "We will contact you to start working",
-      "quote": "QUOTE YOUR SERVICE",
-      "pay": "MAKE THE PAYMENT"
-    }
+  "title": "Tailored Project",
+  "description": "Combine the services you need to build your own package, or write to us and we'll gladly suggest an option that fits your budget.",
+  "step1": "Get in touch with one of our advisors and tell us what you have in mind",
+  "step2": "We'll send you a quote crafted to your needs",
+  "step3": "Once the proposal is approved, make the corresponding payment",
+  "step4": "We'll reach out to get the project started",
+  "quote": "QUOTE YOUR SERVICE",
+  "pay": "MAKE THE PAYMENT"
+}
   },
   "product": {
     "customDesign": {
@@ -351,5 +351,154 @@
       "thanks": "Thank you for your purchase at",
       "customer": "Customer:"
     }
+  },
+    "legalPrivacy": {
+    "title": "Privacy Policy",
+    "lastUpdate": "Last updated: PublicidadActiva",
+    "blocks": [
+      { "type": "paragraph", "text": "COMMERCE GRENAVEL S.A. DE C.V. (\"PublicidadActiva\") is a company incorporated under Mexican law, whose purpose is to provide professional services in the field of digital marketing, with domicile in Mexico City; and, in accordance with the provisions of the Federal Law on the Protection of Personal Data Held by Private Parties (\"LFPDPPP\"), it undertakes to protect the Personal Data (\"Data\") of every person who enters the domain publicidadactiva.com.mx (\"Website\"). PublicidadActiva assumes responsibility for the use, handling and confidentiality of such Data through this Privacy Notice (the \"Notice\")." },
+      { "type": "paragraph", "text": "PublicidadActiva is dedicated to safeguarding the rights of privacy, intimacy and good reputation in the handling of personal data, always acting in accordance with the principles outlined in articles 6 (six) and 16 (sixteen) of the LFPDPPP." },
+      { "type": "paragraph", "text": "In addition, PublicidadActiva reserves the right to update this Notice at any time. Modifications will be reflected by publishing the revised terms in the Services, and the \"last updated\" date will be adjusted accordingly, located at the top of the document." },
+      { "type": "heading", "text": "1.- What personal data do we collect?" },
+      { "type": "paragraph", "text": "At PublicidadActiva we collect Data that you actively send us, and we may process your personal data with or without automated means, which includes the collection, organization, storage, analysis, consultation, use, disclosure by transmission, combination, restriction, deletion or destruction of the User's Data." },
+      { "type": "subheading", "text": "1. Data actively submitted" },
+      { "type": "paragraph", "text": "The User sends Data to PublicidadActiva when registering in our form, whose purpose is to start a dialogue that allows the exchange of information consisting of: (i) Full name; (ii) Email address; and (iii) Name of the Company where he/she works or owns." },
+      { "type": "paragraph", "text": "When you visit our Website, information that the web browser sends each time you visit a website may be collected. Such information may include, by way of example and not limitation, your internet protocol address (IP address), browser type, operating system, language preference, any website you have previously visited that referred you to our site, date and time of each visitor request, information searched in our resources and other information collected by cookies or similar technologies. Please refer to the Cookie Preferences tool (\"Cookie Tool\") published on our Website to learn more about cookies, including the types of cookies and the specifications about the cookies we use. However, if you do not accept cookies, you will not be able to use some sections or features of our sites or applications, as described in the Cookie Tool." },
+      { "type": "subheading", "text": "2. What are the reasons we process personal data?" },
+      { "type": "paragraph", "text": "We process your Data for different purposes, however, the main ones are the following: (i) For the identification, knowledge and validation of the identity of Users who wish to join PublicidadActiva; (ii) to administer, operate and follow up on the Services contracted with PublicidadActiva; (iii) To send emails with information about the contracted Services; (iv) To answer questions, complaints, comments, requests and to provide customer service; (v) To comply with the obligations established by the LFPDPPP, as well as by the competent authorities. (vi) For market, advertising and/or commercial prospecting purposes; and (vii) For the use of customer and/or user testimonials for merely advertising and commercial purposes, referring to the Services offered by PublicidadActiva." },
+      { "type": "paragraph", "text": "We may also use your personal data for internal purposes, such as auditing, data analysis, system troubleshooting and research. In these cases, we base our processing on the legitimate interest of carrying out PublicidadActiva's activities." },
+      { "type": "subheading", "text": "3. With whom do we share personal data?" },
+      { "type": "paragraph", "text": "We share your personal data with third parties in the following circumstances:" },
+      { "type": "list", "items": [
+        "Third parties that are providers. PublicidadActiva may provide Data to third parties to process it in the performance of functions on our behalf as data processors (for example: payment processing, maintenance, security, data analysis, web hosting, measurement services, data-controlled social media messages, surveys, etc.). In such cases, in accordance with this notice and with the applicable legislation, providers will be contractually obligated to protect the Data against any further processing (including for marketing purposes) or transfer.",
+        "Legal requirements. PublicidadActiva may access and disclose your Data if we have a good faith reason to consider that doing so is required by a subpoena, a judicial or administrative order, or if required by Law in any other manner. In addition, we may disclose your personal information or other information as required by law or to exercise or defend legal rights; to take precautions to avoid incurring civil liability issues; to protect the rights, property or safety of the resource, of any person or of the general public; to maintain and protect the security and integrity of our services or infrastructure; to protect ourselves and our services from fraudulent, abusive or illegal uses; to investigate and defend against third-party claims or complaints; or to assist government law enforcement agencies."
+      ]},
+      { "type": "subheading", "text": "4. How do we protect personal data?" },
+      { "type": "paragraph", "text": "We apply technical and organizational measures to protect the Data we receive in order to prevent its loss, misuse and unauthorized alteration, and to protect its confidentiality. We periodically review our security procedures and consider new security technologies and appropriate methods." },
+      { "type": "subheading", "text": "5. How long do we retain personal data?" },
+      { "type": "paragraph", "text": "We retain the collected Data, including information collected, for a reasonable period in order to fulfill the aforementioned processing purposes. We then archive it for the period of time required by law or by other legal considerations. When archiving is no longer necessary, we delete the Data from our records." },
+      { "type": "subheading", "text": "6. How can you access and correct your personal data?" },
+      { "type": "paragraph", "text": "We strive to maintain the accuracy of the Data and rely on you to ensure that your personal data is complete and accurate. The User may exercise any of the Access, Rectification, Cancellation or Opposition rights (ARCO), which are listed and explained below:" },
+      { "type": "list", "items": [
+        "Access: The User may request information about the personal data that PublicidadActiva has stored and how it is used.",
+        "Rectification: If the personal data that PublicidadActiva has is incorrect or incomplete, the User may request its correction or update.",
+        "Cancellation: If the User wishes their personal data to be deleted from PublicidadActiva's database, they may request its cancellation.",
+        "Opposition: The User has the right to oppose the processing of their personal data for specific purposes, such as sending commercial communications."
+      ]},
+      { "type": "paragraph", "text": "To exercise their rights, the User must send an email to atencion@publicidadactiva.com.mx, in free format addressed to PublicidadActiva and containing all the elements necessary to address the request. The ARCO request must contain and accompany what the LFPDPPP states in its Articles 29 and other related provisions, which are summarized as follows:" },
+      { "type": "list", "items": [
+        "The name of the holder and address or other means to communicate the response to their request;",
+        "The documents that prove the identity or, where applicable, the legal representation of the holder;",
+        "The clear and precise description of the personal data with respect to which one of the aforementioned rights is to be exercised, and",
+        "Any other element or document that facilitates the location of the personal data"
+      ]},
+      { "type": "heading", "text": "7.- Competent Authorities." },
+      { "type": "paragraph", "text": "If deemed necessary, PublicidadActiva informs the User that they have the right to go before the National Institute of Transparency, Access to Information and Protection of Personal Data (INAI) to assert any disagreement related to the processing of their personal data by PublicidadActiva." },
+      { "type": "heading", "text": "8.- Contact us." },
+      { "type": "paragraph", "text": "Queries regarding this Notice or the security of the Data we process can be sent through our email address atencion@publicidadactiva.com.mx." }
+    ]
+  },
+  "legalTerms": {
+    "title": "Terms and Conditions",
+    "lastUpdate": "Last updated: PublicidadActiva",
+    "blocks": [
+      { "type": "paragraph", "text": "These Terms and Conditions of Use of PublicidadActiva govern the use of the website publicidadactiva.com.mx (\"Website\") and the services available on the Website (\"Services\"). The Website is operated in Mexico by Commerce Grenavel, S.A. de C.V., headquartered in Mexico City." },
+      { "type": "heading", "text": "1.- General Provisions." },
+      { "type": "paragraph", "text": "We suggest that the User carefully read and ensure they understand and accept all the conditions established in these terms (\"Terms\"), since the rules, obligations and rights provided are binding and valid for all users of the Website. In case of doubt, the User may send an email to atencion@publicidadactiva.com.mx" },
+      { "type": "paragraph", "text": "PublicidadActiva offers various services; by using a particular service, the User will be subject to the guidelines, terms and conditions applicable to that Service. Unless otherwise indicated, any new feature that increases or improves the Services currently available, including new versions, will automatically be subject to the Terms." },
+      { "type": "paragraph", "text": "If you do not agree with the Terms, we ask the User not to use the Website, register, or send data, whether personal or otherwise." },
+      { "type": "paragraph", "text": "Use of the Website is only available to natural or legal persons who have the legal capacity to contract the Services and to whom the status of User is automatically assigned, and implies acceptance, in full and without reservations, of all the provisions included in the Terms in the version in force at the time of access to the Website." },
+      { "type": "paragraph", "text": "The information required for registration as a User is described in the Privacy Notice." },
+      { "type": "heading", "text": "2.- Legal Basis." },
+      { "type": "paragraph", "text": "PublicidadActiva undertakes to comply with the legislation in force for the offer of its Services and to guarantee the privacy of Users as well as their Clients, including, but not limited to, the Federal Consumer Protection Law, the Federal Law on the Protection of Personal Data Held by Private Parties, the Federal Economic Competition Law, the Federal Civil Code and the Commerce Code, and must make the following information available in a prominent and easily visible place:" },
+      { "type": "list", "items": [
+        "Corporate name/Legal name or Mexican Official Identification (in the case of a natural person) and CURP (Unique Population Registry Code);",
+        "Physical address and email address, and other information necessary for its location and contact;",
+        "Essential characteristics of the product or service, including health and safety risks for consumers; price breakdown of any additional or incidental expense, such as delivery or insurance;",
+        "Complete terms and conditions of the offer, including payment terms, availability, form and term of execution of the service or delivery or availability of the product;",
+        "Clear and visible information about any restriction on the enjoyment of the offer;",
+        "Clear and visible information about the collection and protection of personal data of visitors and their access records to the Website, taking into account that the data will be shared and processed on servers of PublicidadActiva or of whoever PublicidadActiva designates for that purpose;",
+        "Mexican Official Identification and the contact information of the person designated by PublicidadActiva to act as a communication channel between the User and the est4e, and the contact information must be publicly disclosed, clearly and objectively, on the User's Website;",
+        "Clear and visible information about the adequate and effective means for the consumer to exercise the right of withdrawal and/or revocation of purchase;",
+        "Clear and visible information about the consumer's right to be informed whether the products or services have a warranty, the procedure to make it effective and the applicable requirements and conditions."
+      ]},
+      { "type": "paragraph", "text": "When not prevented by the Federal Law on the Protection of Personal Data Held by Private Parties, PublicidadActiva undertakes to obtain the free, informed and unequivocal consent of the visitors of the Website through a privacy notice, so that their personal data and Website access records are transferred and processed by PublicidadActiva exclusively for the provision of services by PublicidadActiva." },
+      { "type": "heading", "text": "3.- Description of Services, Price and Payment" },
+      { "type": "paragraph", "text": "PublicidadActiva is a provider of graphic design and content strategy services dedicated to emotionally connecting brands with their audience. The User may choose among different services, which have different characteristics. Prices charged are subject to change at any time at the sole discretion of PublicidadActiva, and will be reflected in Mexican pesos." },
+      { "type": "paragraph", "text": "Regardless of the plan chosen, the User will be provided, among other features, with:" },
+      { "type": "list", "items": [
+        "Virtual Store: a virtual Store with the capacity to make available to the general public, through the internet, the sale of the User's services, without the need to contract a hosting service, provided that the content sold on the Website complies with the Terms and/or applicable legislation.",
+        "\"Shopping Cart\" System: The Website will have the possibility of having a system that allows visitors to select the products of their interest, detailing all the steps necessary to complete the purchase."
+      ]},
+      { "type": "paragraph", "text": "To contract services through this Website, the User must have a credit or debit card issued by a legally constituted banking institution, or use any of the payment methods available at PublicidadActiva. Likewise, the User must authorize the corresponding charge for contracting the Services." },
+      { "type": "paragraph", "text": "The party in charge of the contracting transaction is an Authorized Payment Processing Provider (\"Authorized Processor\") in the field, so PublicidadActiva does not store, process or transmit the Client's banking data. PublicidadActiva, following good practices, verifies that the Authorized Processor has the Payment Card Industry Data Security Standard (hereinafter \"PCI\") certifications." },
+      { "type": "paragraph", "text": "Although PublicidadActiva employs industry security measures to protect its Website, it recommends that the User take care of their card number, expiration date and, especially, not provide the security code, which will not be stored by the Authorized Processor to protect the Client's confidential information. Therefore, PublicidadActiva is not responsible for damages or misuse of the aforementioned data." },
+      { "type": "paragraph", "text": "Once the Service contracting transaction on this Website has been completed and the payment has been authorized by the banking institution of the credit or debit card, or confirmed through another payment method, a screen will appear notifying the User that they have received an email with the instructions for the execution of the contracted Services." },
+      { "type": "paragraph", "text": "Regarding returns, all return and refund requests will be managed in accordance with the Return Policy stipulated on this Website." },
+      { "type": "heading", "text": "4.- Intellectual Property and Licenses" },
+      { "type": "paragraph", "text": "All elements of the Website are protected by Intellectual Property Rights of PublicidadActiva or third parties, including, among others, trade secrets, copyrights and trademarks." },
+      { "type": "paragraph", "text": "These Terms or the use of the Website do not grant you any license or right to use the intellectual property rights of PublicidadActiva or third parties, except for the use of the Website as provided herein. You also agree not to decompile, reverse engineer, disassemble, decrypt or create derivative works from or based on the Website or its content." },
+      { "type": "heading", "text": "5.- Confidentiality" },
+      { "type": "paragraph", "text": "Except for Personal Data whose definition and rules are described in the Privacy Notice, all information you provide during the use of the Website will be treated by PublicidadActiva as confidential." },
+      { "type": "paragraph", "text": "However, information that is the following will not be confidential:" },
+      { "type": "list", "items": [
+        "Previously known because it is in the public domain;",
+        "Developed independently by the receiving party;",
+        "Obtained from third parties who are not subject to the corresponding duty of confidentiality; or",
+        "That becomes public without the confidentiality obligations assumed in this document having been violated."
+      ]},
+      { "type": "paragraph", "text": "The confidentiality obligation established herein will remain in force throughout the entire period in which the information is considered confidential in nature." },
+      { "type": "heading", "text": "6.- Information, Availability and Technology" },
+      { "type": "paragraph", "text": "Our goal is to ensure that any information available on the Website is accurate and complete. However, all information available on the Website is provided for informational purposes only and we recommend that you verify the accuracy of any information before relying on it. We have no obligation nor do we intend to have any, and PublicidadActiva may, at its sole discretion, make the necessary changes to update or correct any information on the Website." },
+      { "type": "paragraph", "text": "The User is aware that PublicidadActiva recommends the use of duly secure and updated tools and technology (hardware and/or software) for access to the Website." },
+      { "type": "paragraph", "text": "PublicidadActiva does not guarantee, under any circumstances, that the Website is free from possible failures, interruptions, viruses and other technological factors beyond the Website's control. For this reason, PublicidadActiva is not responsible for the loss of stored content or failures." },
+      { "type": "heading", "text": "7.- Miscellaneous" },
+      { "type": "paragraph", "text": "The nullity, annulment or inapplicability of any clause or section of the Terms in whole or in part will not affect the other clauses, which will remain intact and fully valid and with full effect for all legal purposes." },
+      { "type": "paragraph", "text": "These Terms bind PublicidadActiva and the User; the Terms and the use of the Website do not establish an employment, mandate, partnership, association, agency, representation, consortium, joint venture or franchise relationship, nor joint or subsidiary liability between PublicidadActiva and the Users, who are independent and autonomous persons for all legal purposes, nor do they confer powers of mutual representation in any legal business." },
+      { "type": "heading", "text": "8.- Legislation and Dispute Resolution" },
+      { "type": "paragraph", "text": "These Terms shall be interpreted in accordance with Mexican legislation." },
+      { "type": "paragraph", "text": "PublicidadActiva is proud to share the success stories of users and makes its best efforts to ensure that the experience with the use of the Services is positive. If this does not happen for any reason, we ask you to contact us by email at atencion@publicidadactiva.com.mx to try to resolve the issue." },
+      { "type": "paragraph", "text": "If, after attempting to resolve the matter with us, you decide to sue us before a court for any dispute, the lawsuit must be filed in the Courts of Mexico City." },
+      { "type": "heading", "text": "9.- Updates to the Terms" },
+      { "type": "paragraph", "text": "The Terms may be updated by PublicidadActiva at any time, in order to improve the services provided. If there is a significant change, the new Terms will enter into force one day after their publication. Within 5 (five) calendar days from the publication of the new version, the User must send an email to atencion@publicidadactiva.com.mx if they do not agree with the changes. In this case, the contractual relationship will cease to exist, as long as there are no pending amounts. If there is no manifestation within the stipulated period, it will be understood that the User has accepted the new conditions and the contract will be binding for both parties." }
+    ]
+  },
+  "legalRefund": {
+    "title": "Return and Refund Policy",
+    "lastUpdate": "Last updated: PublicidadActiva",
+    "blocks": [
+      { "type": "paragraph", "text": "At PublicidadActiva we strive to offer services of the highest quality, which is why our Refund Policy (the \"Policy\") is designed to provide clarity and transparency in the refund process, ensuring a fair and consistent experience for all PublicidadActiva clients." },
+      { "type": "heading", "text": "1.- Reasons for Return, Cancellation and Refund." },
+      { "type": "paragraph", "text": "PublicidadActiva makes available to the Client the different reasons for non-compliance that may lead to the need to use this Policy. They are detailed below:" },
+      { "type": "list", "items": [
+        "Service Quality: The service offered by PublicidadActiva does not meet the promised or expected quality standards.",
+        "Inaccurate Description: The service or product does not match the description provided at the time of purchase.",
+        "Order errors: The performance of a service different from the one requested by the client.",
+        "Delivery Delays: Significant delays that affect the usefulness or relevance of the service to the client.",
+        "Lack of Correspondence: The service provided does not conform to the requirements established in the contract or order."
+      ]},
+      { "type": "paragraph", "text": "Likewise, in the event of any inconvenience with the service, such as non-compliance, inconsistency, partiality, defects or dissatisfaction on the part of the client or PublicidadActiva, cancellation of the service may be requested through a mutual agreement. In such circumstance, the amount retained as a guarantee may be refunded to the client, that is, the amount that has not been released to the professional by the client." },
+      { "type": "paragraph", "text": "In the case of cancellation and refund to the client, the amount will be credited to the account registered with PublicidadActiva according to the payment method used in the original transaction. Subsequently, the client may choose to use the credit for future services or request the refund to their bank account." },
+      { "type": "paragraph", "text": "The Client must comply with the payment process established by PublicidadActiva. If the Client sends the funds to PublicidadActiva and subsequently requests a cancellation through an external financial institution without first contacting PublicidadActiva, they will be responsible for the costs associated with such cancellation." },
+      { "type": "paragraph", "text": "The right to a refund will only apply if the Client has made the payment for the Services as specified in the order, including all pertinent fees." },
+      { "type": "paragraph", "text": "Any cost associated with processing the refund will be borne exclusively by the Client. These charges will be deducted from the total refund amount." },
+      { "type": "heading", "text": "2.- Conditions for Refunds." },
+      { "type": "paragraph", "text": "Depending on the Service offered by PublicidadActiva, the Client must meet the following conditions:" },
+      { "type": "list", "items": [
+        "Refund Form: the Client must complete a Refund Form and send it to atencion@publicidadactiva.com.mx from the email address associated with their PublicidadActiva account.",
+        "Response: PublicidadActiva will process the Refund Form sent by the Client as soon as possible within a reasonable time frame. Response times may vary depending on the reasons for the refund and the workload. In any case, PublicidadActiva will inform the Client about the result of their request. The Client may also contact the support department, available 24/7, to obtain updates on their request.",
+        "If the client requests a refund, it will be made using the same payment method used in the original transaction.",
+        "Credit card payments: For payments made with a credit card in the last 15 to 30 days, the refund will be made to the same card.",
+        "Debit card payments: For payments made with a debit card in the last 10 to 15 days, the refund will be made to the same card.",
+        "Payments over 180 days: If the payment was made more than 180 days ago and the payment processor no longer allows refunds (variable depending on the processor, between 180 and 365 days), the refund will be made to the information provided by the client, as long as the data corresponds to the original holder of the purchase."
+      ]},
+      { "type": "paragraph", "text": "Notes: No refunds will be made if the Client has received the contracted services in accordance with their order and is completely satisfied with them. However, if the Client changes their mind and wishes to return the service already provided, PublicidadActiva will not be able to process the refund, since the service has been fulfilled as agreed." },
+      { "type": "paragraph", "text": "In exceptional situations, PublicidadActiva reserves the right to evaluate each case individually and offer alternative solutions, such as adjustments to the services provided or credits for future projects." },
+      { "type": "paragraph", "text": "If the payment method used has been canceled or replaced, the client must contact their service provider to verify how the refund will be managed in this case. We, as a process, send the refund information to the card operator." },
+      { "type": "heading", "text": "3.- Contact and Support" },
+      { "type": "paragraph", "text": "For any queries related to our Policy or to request a refund, please contact our support team through the following email address: atencion@publicidadactiva.com.mx. At PublicidadActiva we are available to assist you and ensure that all your concerns are addressed efficiently." },
+      { "type": "heading", "text": "4.- Policy Updates" },
+      { "type": "paragraph", "text": "PublicidadActiva reserves the right to update this Policy at any time. Modifications will be published on our website and the date of the last update will be indicated at the top of the document. Clients are advised to periodically review this Policy to stay informed of any changes." }
+    ]
   }
 }
